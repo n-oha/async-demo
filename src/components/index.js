@@ -1,0 +1,1 @@
+export { default as HelloWorld } from './HelloWorld/HelloWorld'     //コンポーネンツ内のHelloWordフォルダの出力をデフォルト化する為の謳い文句 このインデックスがないとエラーが出ます
